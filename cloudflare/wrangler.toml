@@ -1,0 +1,6 @@
+name = "abgfeedback"
+main = "worker.js"
+compatibility_date = "2024-10-01"
+compatibility_flags = ["nodejs_compat"]
+
+# jangan taruh secret di sini — set via Cloudflare dashboard
